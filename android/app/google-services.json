@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "452483472298",
+    "project_id": "byusneus-push",
+    "storage_bucket": "byusneus-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452483472298:android:1512616ae20fc4832d69d3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_dynamic_links_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452483472298-pr459u83uol4naq1kehdi2tqqf5odsed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcUzcN4uRSknPQPrwmvfZ2Xpku1HTU95Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452483472298-pr459u83uol4naq1kehdi2tqqf5odsed.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "452483472298-ejgfr1pqa68f1hc74j3pb3kstmpr941e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.byusneus.byersoft"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
